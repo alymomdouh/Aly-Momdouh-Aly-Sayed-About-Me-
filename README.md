@@ -34,11 +34,11 @@
 
 ### Connect with me:
 
-<!-- [<img align="left" alt="https://www.youtube.com/channel/UCM41bujXFz98HYx8o7fV1CQ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="https://twitter.com/Danaelshrbiny10?s=09 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]-->
+[<img align="left" alt="https://www.youtube.com/channel/aly | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="https://twitter.com/aly | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [<img align="left" alt="https://www.linkedin.com/in/ali-mamdouh-ali-457a6a130/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<!-- [<img align="left" alt="https://www.instagram.com/danaelshrbiny10/?hl=en | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
+[<img align="left" alt="https://www.instagram.com/aly | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 <br />
@@ -49,10 +49,9 @@
  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alymomdouh&show_icons=true&hide_border=true" />
 
 </details>
+ 
+[twitter]:  https://twitter.com/ali-mamdouh-ali
+[youtube]:  https://www.youtube.com/channel/ali-mamdouh-ali
+[instagram]:https://www.instagram.com/ali-mamdouh-ali
 [linkedin]: https://www.linkedin.com/in/ali-mamdouh-ali-457a6a130
-<!--  
-[twitter]:  https://twitter.com/Danaelshrbiny10?s=09
-[youtube]:  https://www.youtube.com/channel/UCM41bujXFz98HYx8o7fV1CQ
-[instagram]:https://www.instagram.com/danaelshrbiny10/?hl=en
-
-[Facebook]: https://www.facebook.com/profile.php?id=100008345534827 -->
+[Facebook]: https://www.facebook.com/profile.php?id=ali-mamdouh-ali
