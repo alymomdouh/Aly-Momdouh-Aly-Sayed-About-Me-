@@ -49,9 +49,10 @@
  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alymomdouh&show_icons=true&hide_border=true" />
 
 </details>
+[linkedin]: https://www.linkedin.com/in/ali-mamdouh-ali-457a6a130
 <!--  
 [twitter]:  https://twitter.com/Danaelshrbiny10?s=09
 [youtube]:  https://www.youtube.com/channel/UCM41bujXFz98HYx8o7fV1CQ
 [instagram]:https://www.instagram.com/danaelshrbiny10/?hl=en
-[linkedin]: https://www.linkedin.com/in/dana-elshrbiny-b600701b2
+
 [Facebook]: https://www.facebook.com/profile.php?id=100008345534827 -->
