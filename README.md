@@ -2,11 +2,11 @@
 
 ## I'm a Full Stack Web(.NET Developer) !
 
-- 🔭 I’m currently working on VS Code
+- 🔭 I’m currently working on Visual Studio 2019
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and make an Animation Videos
+- ⚡ Fun fact: I love to watch scientific movies in special marvel 
 - ✨ Follow Me | [My linkedin](https://www.linkedin.com/in/ali-mamdouh-ali-457a6a130/)
 
 ### Languages and Tools:
