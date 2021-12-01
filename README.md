@@ -15,18 +15,19 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="javascript" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.png" />
-<img align="left" alt="angularjs" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" />
+<!-- <img align="left" alt="angularjs" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" /> -->
 <img align="left" alt="bootstrap" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
 <img align="left" alt="dotnetcore" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="left" alt="dot-net" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" />
 <img align="left" alt="csharp" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
-<img align="left" alt="codepen" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg"/>
+<!-- <img align="left" alt="codepen" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg"/> -->
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="jquery" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" />
 <img align="left" alt="sass" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
-<img align="left" alt="visual-studio" width="26px" src="https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/05/visual-studio-logo.jpg" />
-<img align="left" alt=" " width="26px" src=" " /> 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="visual-studio" width="40px" src="https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/05/visual-studio-logo.jpg" />
+<!-- 
+<img align="left" alt=" " width="26px" src=" " />  -->
+<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
@@ -58,9 +59,12 @@
 </details>
 
 <!-- 
+how make this 
 <a href="https://github.com/alymomdouh/alymomdouh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alymomdouh&layout=compact&hide=java,html&title_color=000000&text_color=000000" />
 </a> -->
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- the best here creative-profile https://github.com/coderjojo/creative-profile-readme  and here https://awesome-github-readme-profile.netlify.app/-->
 
  
  
