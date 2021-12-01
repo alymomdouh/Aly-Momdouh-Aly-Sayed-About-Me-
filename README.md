@@ -24,10 +24,10 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="jquery" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" />
 <img align="left" alt="sass" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
-<img align="left" alt="visual-studio" width="40px" src="https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/05/visual-studio-logo.jpg" />
+<img align="left" alt="visual-studio" width="70px" src="https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/05/visual-studio-logo.jpg" />
 <!-- 
 <img align="left" alt=" " width="26px" src=" " />  -->
-<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Git" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
