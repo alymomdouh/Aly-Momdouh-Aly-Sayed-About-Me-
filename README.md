@@ -45,23 +45,21 @@
 
 <details>
   <summary>
-    :zap: Github Stats
-        &#x1f4c8; My GitHub Stats
+    :zap: &#x1f4c8; My GitHub Stats
   </summary>
        
   <a href="https://github.com/alymomdouh/alymomdouh">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alymomdouh&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="alymomdouh's GitHub Stats" />
-</a>
-  
+</a> 
   <a href="https://github.com/alymomdouh/alymomdouh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alymomdouh&langs_count=8&layout=compact&title_color=000000&text_color=000000" />
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alymomdouh&langs_count=8&title_color=000000&text_color=000000" />
+</a> 
   
 </details>
 
 <!-- 
 <a href="https://github.com/alymomdouh/alymomdouh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alymomdouh&hide=java,html&title_color=000000&text_color=000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alymomdouh&layout=compact&hide=java,html&title_color=000000&text_color=000000" />
 </a> -->
 
  
