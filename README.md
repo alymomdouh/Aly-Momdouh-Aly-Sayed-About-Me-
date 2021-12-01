@@ -44,12 +44,11 @@
 <br />
 
 <details>
-<!--   <summary>:zap: Github Stats</summary> -->
+  <summary>:zap: Github Stats</summary>
       ## &#x1f4c8; My GitHub Stats
   <a href="https://github.com/alymomdouh/alymomdouh">
-        <img align="left" alt="alymomdouh's Github Stats" 
-  src="https://github-readme-stats.vercel.app/api?username=alymomdouh &show_icons=true&&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051"/>
-   </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alymomdouh&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="alymomdouh's GitHub Stats" />
+</a>
   
   <a href="https://github.com/alymomdouh/alymomdouh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alymomdouh&title_color=000000&text_color=000000" />
