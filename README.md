@@ -40,15 +40,28 @@
 [<img align="left" alt="https://www.linkedin.com/in/ali-mamdouh-ali-457a6a130/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="https://www.instagram.com/aly | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+  <br />
 <br />
 
 <details>
   <summary>:zap: Github Stats</summary>
-
- <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alymomdouh&show_icons=true&hide_border=true" />
-
+      ## &#x1f4c8; My GitHub Stats
+  <a href="https://github.com/alymomdouh/alymomdouh">
+        <img align="left" alt="alymomdouh's Github Stats" src="https://github-readme-stats.vercel.app/api?                         username=alymomdouh&show_icons=true&&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" />
+   </a>
+  
+  <a href="https://github.com/alymomdouh/alymomdouh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alymomdouh&title_color=000000&text_color=000000" />
+</a>
+  
 </details>
+
+<!-- 
+<a href="https://github.com/alymomdouh/alymomdouh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alymomdouh&hide=java,html&title_color=000000&text_color=000000" />
+</a> -->
+
+ 
  
 [twitter]:  https://twitter.com/ali-mamdouh-ali
 [youtube]:  https://www.youtube.com/channel/ali-mamdouh-ali
