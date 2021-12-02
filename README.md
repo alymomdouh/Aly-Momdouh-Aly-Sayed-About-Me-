@@ -40,8 +40,10 @@
 <!-- [<img align="left" alt="https://twitter.com/aly | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
   [<img align="left" alt="https://www.facebook.com/alymomdouh.aly | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]  
 
-[<img align="left" alt="https://www.linkedin.com/in/ali-mamdouh-ali-457a6a130/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="https://t.me/alymomdouh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="https://www.linkedin.com/in/ali-mamdouh-ali-457a6a130/ | LinkedIn" width="22px" 
+                                                                                 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="https://t.me/alymomdouh | telegram" width="22px" 
+                                                                                  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 <!-- [<img align="left" alt="https://www.instagram.com/aly | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
   <br />
