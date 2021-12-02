@@ -35,11 +35,14 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://www.youtube.com/channel/aly | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="https://twitter.com/aly | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="https://www.youtube.com/channel/UCbv8uwCIN2ZxOKpMycU1FFw/playlists | YouTube" width="22px" 
+                                                                                          src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+<!-- [<img align="left" alt="https://twitter.com/aly | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
+  [<img align="left" alt="https://www.facebook.com/alymomdouh.aly | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]  
 
 [<img align="left" alt="https://www.linkedin.com/in/ali-mamdouh-ali-457a6a130/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="https://www.instagram.com/aly | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="https://t.me/alymomdouh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+<!-- [<img align="left" alt="https://www.instagram.com/aly | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
   <br />
 <br />
