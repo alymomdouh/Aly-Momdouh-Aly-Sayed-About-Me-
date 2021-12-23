@@ -1,14 +1,16 @@
-### Hi there I'm aly momdouh aly sayed👋
+### <h1 align="center">Hi there 👋, I'm aly momdouh aly sayed👨‍🎓 </h1> 
 
-## I'm a Full Stack Web(.NET Developer) !
+## <h1 align="center">I'm a Full Stack Web(.NET Developer)💻🏠</h1> 
 
-- 🔭 I’m currently working on Visual Studio 2019
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently make my project until find the best job 
+- 🌱 I’m currently learning new things in angular and Azure 📈📅
 - 👯 I’m looking to collaborate on with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to watch scientific movies in special marvel 
+- 🥅 2021 Goals: to make more projects and find my job
+- 📫 How to reach me in mail ✉ **alymomdouhaly@gmail.com**
+<!-- - ⚡ Fun fact: I love to watch scientific movies in special marvel 
 - ✨ Follow Me | [My linkedin](https://www.linkedin.com/in/ali-mamdouh-ali-457a6a130/)
-
+ -->
+ 
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -33,29 +35,7 @@
 <br />
 <br />
 
-### Connect with me:
-[<img align="left" alt="https://www.linkedin.com/in/ali-mamdouh-ali-457a6a130/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<!-- [<img align="left" alt="alymomdouhaly@gmail.com | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail] -->
 
-
-<!--    [<img align="left" alt="https://www.telegram.me/alymomdouh | telegram" width="22px"  
-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]    -->
-
-
-[<img align="left" alt="https://www.facebook.com/alymomdouh.aly | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]  
-                                                                 
-
-[<img align="left" alt="https://www.youtube.com/channel/UCbv8uwCIN2ZxOKpMycU1FFw/playlists | YouTube" width="22px" 
-                                                                                          src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-<!-- [<img align="left" alt="https://twitter.com/aly | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
-
-
-
-                                                                                  
-<!-- [<img align="left" alt="https://www.instagram.com/aly | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
-
-  <br />
-<br />
 
 <details>
   <summary>
@@ -91,3 +71,22 @@ how make this
 <!-- https://www.youtube.com/watch?v=ECuqb5Tv9qI&ab_channel=codeSTACKr -->
 <!-- Emoji Cheat Sheet website link -->
 <!-- https://www.webfx.com/tools/emoji-cheat-sheet/ -->
+ 
+
+
+ <h3 align="left">Connect with me:</h3>
+<p align="left"> 
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/ali-mamdouh-ali-457a6a130/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-mamdouh-ali-457a6a130/" height="30" width="40" /></a>
+  
+<a href="https://codepen.io/alymomdouh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-         generator/master/src/images/icons/Social/codepen.svg" alt="alymomdouh" height="30" width="40" /></a>
+  
+<a href="https://twitter.com/alymomdouh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alymomdouh" height="30" width="40" /></a>
+
+  <a href="https://www.hackerrank.com/aly_momdouh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aly_momdouh" height="30" width="40" /></a>
+ 
+<a href="https://www.facebook.com/alymomdouh.aly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alymomdouh" height="30" width="40" /></a>
+  
+<a href="https://instagram.com/alymomdouh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alymomdouh" height="30" width="40" /></a>
+  
+  <a href="https://www.telegram.me/alymomdouh" target="blank"><img align="center" src="https://user-images.githubusercontent.com/33808080/147296524-fabcc5c9-0544-42be-9ee8-d06d0e34627a.png" alt="alymomdouh" height="30" width="40" /></a> 
+  </p>  
