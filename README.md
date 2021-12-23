@@ -68,8 +68,7 @@ how make this
 <!-- <img align="left" alt="visual-studio" width="70px" src="https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/05/visual-studio-logo.jpg" /> -->
 <!--  <img align="left" alt=" " width="26px" src=" " />  -->
 <!-- <img align="left" alt="Git" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> -->
-<br />
-<br /> 
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
  <a href="https://www.linkedin.com/in/ali-mamdouh-ali-457a6a130/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-mamdouh-ali-457a6a130/" height="30" width="40" /></a> 
