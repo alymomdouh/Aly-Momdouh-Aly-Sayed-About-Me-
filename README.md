@@ -15,7 +15,11 @@
     :zap: &#x1f4c8; My GitHub Stats
   </summary> 
  <a href="https://github.com/alymomdouh/alymomdouh"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=alymomdouh&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="alymomdouh's GitHub Stats" /></a>
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alymomdouh&" alt="alymomdouh" /></p>
+ 
+<!--  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alymomdouh&" alt="alymomdouh" /></p> -->
+ 
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alymomdouh&theme=highcontrast&date_format=j%20M%5B%20Y%5D&fire=DD2727&background=480D0D&border=000000&stroke=0E722E&ring=88DD71)](https://git.io/streak-stats)
+
  <a href="https://github.com/alymomdouh/alymomdouh"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alymomdouh&langs_count=8&title_color=000000&text_color=000000" /></a>  
 
 </details>
