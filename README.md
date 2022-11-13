@@ -2,10 +2,10 @@
 <h3 align="center">I'm a Full Stack Web(.NET Developer)💻🏠</h3>
   
 <p align="center"> 
-    <a href="https://twitter.com/alymomdouh" target="blank"><img src="https://img.shields.io/twitter/follow/alymomdouh?logo=twitter&style=for-the-badge"alt="alymomdouh" /></a> 
+<!--     <a href="https://twitter.com/alymomdouh" target="blank"><img src="https://img.shields.io/twitter/follow/alymomdouh?logo=twitter&style=for-the-badge"alt="alymomdouh" /></a>  -->
     <img src="https://komarev.com/ghpvc/?username=alymomdouh&label=Profile%20views&color=0e75b6&style=flat" alt="alymomdouh" /> 
 </p>
-- 📫 How to reach me **alymomdouhaly@gmail.com**
+- 📫 How to reach me **<a href="mailto:alymomdouhaly@gmail.com">alymomdouhaly@gmail.com</a>**
  
 ###  Blogs posts
 <!-- BLOG-POST-LIST:START -->
