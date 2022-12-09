@@ -31,7 +31,7 @@
 
 ---
 
-[![Aly's github activity graph](https://activity-graph.herokuapp.com/graph?username=alymomdouh&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Aly's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alymomdouh&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
