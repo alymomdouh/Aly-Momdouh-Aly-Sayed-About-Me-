@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm aly momdouh aly sayed👨‍🎓</h1>
+<h1 align="center">Hi 👋, I'm Aly Momdouh aly sayed👨‍🎓</h1>
 <h3 align="center">I'm a Full Stack Web(.NET Developer)💻🏠</h3>
   
 <p align="center"> 
-<!--     <a href="https://twitter.com/alymomdouh" target="blank"><img src="https://img.shields.io/twitter/follow/alymomdouh?logo=twitter&style=for-the-badge"alt="alymomdouh" /></a>  -->
-    <img src="https://komarev.com/ghpvc/?username=alymomdouh&label=Profile%20views&color=0e75b6&style=flat" alt="alymomdouh" /> 
+<!--     <a href="https://twitter.com/alymomdouh" target="blank"><img src="https://img.shields.io/twitter/follow/alymomdouh?logo=twitter&style=for-the-badge"alt="AlyMomdouh" /></a>  -->
+    <img src="https://komarev.com/ghpvc/?username=alymomdouh&label=Profile%20views&color=0e75b6&style=flat" alt="AlyMomdouh" /> 
 </p>
-- 📫 How to reach me   <a href="mailto:alymomdouhaly@gmail.com"><img src="https://img.shields.io/badge/-Aly%20Mamdouh-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+- 📫 How to reach me   <a href="mailto:alymomdouhaly@gmail.com"><img src="https://img.shields.io/badge/-Aly%20Momdouh-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
  
 <!-- ###  Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
@@ -61,27 +61,27 @@
 ### 🤝🏻 &nbsp;Connect With Me
  </br>
 <p align="center">
-  <a href="mailto:alymomdouhaly@gmail.com"><img src="https://img.shields.io/badge/-Aly%20Mamdouh-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:alymomdouhaly@gmail.com"><img src="https://img.shields.io/badge/-Aly%20Momdouh-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/alymomdouhaly/" alt="alymomdouhaly/" target="blank">
-  <img src="https://img.shields.io/badge/-Aly%20Mamdouh-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Aly%20Momdouh-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
  </a> 
 <a href="https://t.me/alymomdouh">
-  <img src="https://img.shields.io/badge/-Aly%20Mamdouh-09c?style=flat&logo=telegram"/>
+  <img src="https://img.shields.io/badge/-Aly%20Momdouh-09c?style=flat&logo=telegram"/>
 </a>
 <a href="https://leetcode.com/aly_momdouh/">
-  <img src="https://img.shields.io/badge/-Aly%20Mamdouh-FFF?style=flat&logo=leetcode&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/-Aly%20Momdouh-FFF?style=flat&logo=leetcode&logoColor=yellow"/>
 </a>
 <a href="https://www.hackerrank.com/aly_momdouh">
-  <img src="https://img.shields.io/badge/-Aly%20Mamdouh-islamicgreen?style=flat&logo=HackerRank&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Aly%20Momdouh-islamicgreen?style=flat&logo=HackerRank&logoColor=black"/>
 </a>
 <a href="https://codepen.io/alymomdouh">
-  <img src="https://img.shields.io/badge/-Aly%20Mamdouh-05122A?style=flat&logo=codepen"/>
+  <img src="https://img.shields.io/badge/-Aly%20Momdouh-05122A?style=flat&logo=codepen"/>
 </a> 
-<!-- <a href="https://www.youtube.com/channel/alymomdouh"><img src="https://img.shields.io/badge/-Aly%20Mamdouh-red?style=flat&logo=youtube&logoColor=fff"/></a> -->
-<!-- <a href="https://www.facebook.com/alymomdouh/"><img src="https://img.shields.io/badge/-Aly%20Mamdouh-1877F2?style=flat&logo=Facebook&logoColor=white"/></a> 
+<!-- <a href="https://www.youtube.com/channel/alymomdouh"><img src="https://img.shields.io/badge/-Aly%20Momdouh-red?style=flat&logo=youtube&logoColor=fff"/></a> -->
+<!-- <a href="https://www.facebook.com/alymomdouh/"><img src="https://img.shields.io/badge/-Aly%20Momdouh-1877F2?style=flat&logo=Facebook&logoColor=white"/></a> 
 
-<a href="https://codeforces.com/profile/alymomdouh"><img src="https://img.shields.io/badge/-Aly%20Mamdouh-white?style=flat&logo=Codeforces&logoColor=inhert"/></a>
-<a href="https://instagram.com/alymomdouh"><img src="https://img.shields.io/badge/-Aly%20Mamdouh-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/alymomdouh"><img src="https://img.shields.io/badge/-Aly%20Momdouh-white?style=flat&logo=Codeforces&logoColor=inhert"/></a>
+<a href="https://instagram.com/alymomdouh"><img src="https://img.shields.io/badge/-Aly%20Momdouh-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p> 
  <a href="https://dev.to/alymomdouh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alymomdouh" height="30" width="40" /></a>
 <a href="https://twitter.com/alymomdouh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alymomdouh" height="30" width="40" /></a>
