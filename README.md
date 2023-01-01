@@ -5,8 +5,9 @@
 <!--     <a href="https://twitter.com/alymomdouh" target="blank"><img src="https://img.shields.io/twitter/follow/alymomdouh?logo=twitter&style=for-the-badge"alt="AlyMomdouh" /></a>  -->
     <img src="https://komarev.com/ghpvc/?username=alymomdouh&label=Profile%20views&color=0e75b6&style=flat" alt="AlyMomdouh" /> 
 </p>
-- 📫 How to reach me   <a href="mailto:alymomdouhaly@gmail.com"><img src="https://img.shields.io/badge/-Aly%20Momdouh-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
- 
+
+##      📫 How to reach me  : <p align="center"><a href="mailto:alymomdouhaly@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></p> 
+
 <!-- ###  Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -22,6 +23,7 @@
 
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=800080)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-thebadge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
 ![postmanpostman](https://img.shields.io/badge/-postman-05122A?style=flat&logo=postman)&nbsp;
 
 ###### <b>Operating System Used and Now Learning  :</b>
@@ -61,21 +63,29 @@
 ### 🤝🏻 &nbsp;Connect With Me
  </br>
 <p align="center">
-  <a href="mailto:alymomdouhaly@gmail.com"><img src="https://img.shields.io/badge/-Aly%20Momdouh-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:alymomdouhaly@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+ </a>
 <a href="https://www.linkedin.com/in/alymomdouhaly/" alt="alymomdouhaly/" target="blank">
-  <img src="https://img.shields.io/badge/-Aly%20Momdouh-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a> 
 <a href="https://t.me/alymomdouh">
-  <img src="https://img.shields.io/badge/-Aly%20Momdouh-09c?style=flat&logo=telegram"/>
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 <a href="https://leetcode.com/aly_momdouh/">
-  <img src="https://img.shields.io/badge/-Aly%20Momdouh-FFF?style=flat&logo=leetcode&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
 </a>
 <a href="https://www.hackerrank.com/aly_momdouh">
-  <img src="https://img.shields.io/badge/-Aly%20Momdouh-islamicgreen?style=flat&logo=HackerRank&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 </a>
+<a href="https://app.pluralsight.com/profile/alymomdouh">
+  <img src="https://img.shields.io/badge/Pluralsight-EE3057?style=for-the-badge&logo=pluralsight&logoColor=white"/>
+</a>
+<a href="https://www.udemy.com/user/aly-momdouh-aly/">
+  <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>
+</a> 
 <a href="https://codepen.io/alymomdouh">
-  <img src="https://img.shields.io/badge/-Aly%20Momdouh-05122A?style=flat&logo=codepen"/>
+  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
 </a> 
 <!-- <a href="https://www.youtube.com/channel/alymomdouh"><img src="https://img.shields.io/badge/-Aly%20Momdouh-red?style=flat&logo=youtube&logoColor=fff"/></a> -->
 <!-- <a href="https://www.facebook.com/alymomdouh/"><img src="https://img.shields.io/badge/-Aly%20Momdouh-1877F2?style=flat&logo=Facebook&logoColor=white"/></a> 
