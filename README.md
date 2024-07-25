@@ -1,21 +1,63 @@
+<h1 dir="auto" >
+            <a id="" class="anchor" aria-hidden="true" tabindex="-1" href="#">
+                <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16"
+                    aria-hidden="true">
+                    <path
+                        d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z">
+                    </path>
+                </svg></a>
+            <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&background=4B4DC800&center=true&vCenter=true&multiline=true&random=true&width=456&height=87&lines=Hi+%F0%9F%91%8B%2C+I'm+Aly+Momdouh+Aly+Sayed%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;Full+Stack+Developer+(.Net)+%F0%9F%92%BB%F0%9F%8F%A0" alt="Typing SVG" /></a>
+        </h1>
+   <img  align="right" alt ="coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+
+<img  align="right" alt ="coding" width="400" src ="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif">
+
+
+<p align="left">  
+  <img src="https://komarev.com/ghpvc/?username=alymomdouh&label=Profile%20views&color=0e75b6&style=flat" alt="AlyMomdouh" />  
+</p>
+
+- 🌱 I’m currently learning .NET
+- 🌱 I’m currently learning **Angular** 
+
+- 💬 Ask me about **C#**
+
+- 📫 How to reach me **alymomdouhaly@gmail.com**
+-  <!-- 
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY resume](https://drive.google.com/file/d/1uyTQgNnFOJWebZ84wCXRaUzNV46Pu2tW/view).
+
+-->
+ <h3 align="left"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%">
+ Connect with me:</h3>
+<p align="left">
+   <a href="mailto:alymomdouhaly@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/alymomdouhaly/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kemo" height="30" width="40" /></a>
+
+ 
+
+
+
 <div align="center">
-  
-![Another one](hello-animated.svg)
+  <!-- 
+ ![Another one](hello-animated.svg)
+  -->
+
   
 </div>
 <!-- 
 <h1 align="center">Hi 👋, I'm Aly Momdouh Aly Sayed👨‍🎓</h1>
- -->
 <h3 align="center">I'm a Full Stack Web(.NET Developer)💻🏠</h3>
-  
+ -->
+ 
+  <!--
 <p align="center"> 
-<!--     <a href="https://twitter.com/alymomdouh" target="blank"><img src="https://img.shields.io/twitter/follow/alymomdouh?logo=twitter&style=for-the-badge"alt="AlyMomdouh" /></a>  -->
-    <img src="https://komarev.com/ghpvc/?username=alymomdouh&label=Profile%20views&color=0e75b6&style=flat" alt="AlyMomdouh" /> 
+<!--     <a href="https://twitter.com/alymomdouh" target="blank"><img src="https://img.shields.io/twitter/follow/alymomdouh?logo=twitter&style=for-the-badge"alt="AlyMomdouh" /></a>  
+    <img src="https://komarev.com/ghpvc/?username=alymomdouh&label=Profile%20views&color=0e75b6&style=flat" alt="AlyMomdouh" /> -->
 </p>
-
+<!--
 ##      📫 How to reach me  : <p align="center"><a href="mailto:alymomdouhaly@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></p> 
 
-<!-- ###  Blogs posts -->
+ ###  Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <!-- That I Know -->
